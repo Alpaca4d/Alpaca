@@ -9,9 +9,9 @@ The belief is to bring more users to perform structural analyses with Opensees i
 
 The tool is still in the early stage and it will be improved in the future.
 
-__Instagram__: [Alpaca4d](https://www.instagram.com/alpaca4d/)
-__Facebook__: [Alpaca4d](https://www.facebook.com/Alpaca4d)
-__e-mail__: alpaca4d@gmail.com
+__Instagram__: [Alpaca4d](https://www.instagram.com/alpaca4d/)  
+__Facebook__: [Alpaca4d](https://www.facebook.com/Alpaca4d)  
+__e-mail__: alpaca4d@gmail.com  
 
-Disclaimer
+#### Disclaimer
 the author cannot be held responsible for the output and it should therefore always be used in combination with another finite element analysis package for validation and documentation.
