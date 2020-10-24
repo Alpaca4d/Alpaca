@@ -14,4 +14,4 @@ __Facebook__: [Alpaca4d](https://www.facebook.com/Alpaca4d)
 __e-mail__: alpaca4d@gmail.com  
 
 #### Disclaimer
-the author cannot be held responsible for the output and it should therefore always be used in combination with another finite element analysis package for validation and documentation.
+The authors cannot be held responsible for the output and it should therefore always be used in combination with another finite element analysis package for validation and documentation.
