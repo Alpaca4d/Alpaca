@@ -15,3 +15,5 @@ __e-mail__: alpaca4d@gmail.com
 
 #### Disclaimer
 The authors cannot be held responsible for the output and it should therefore always be used in combination with another finite element analysis package for validation and documentation.
+
+<img src="EarthQuake.gif" alt="drawing" width="300"/>
